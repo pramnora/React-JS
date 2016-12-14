@@ -12,6 +12,11 @@ https://facebook.github.io/react/
 https://facebook.github.io/react/docs/hello-world.html  
 https://facebook.github.io/react/tutorial/tutorial.html  
 
+*Example codes*
+
+Hello, world!  
+http://codepen.io/gaearon/pen/rrpgNB  
+
 **Videos**
 
 *YouTube*  
