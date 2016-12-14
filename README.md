@@ -15,7 +15,7 @@ https://facebook.github.io/react/tutorial/tutorial.html
 **Videos**
 
 *YouTube*  
-React JS Crash Course/(Traversy Media)
+React JS Crash Course/(Traversy Media)  
 https://www.youtube.com/watch?v=A71aqufiNtQ  
 
 
