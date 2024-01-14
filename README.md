@@ -5,22 +5,28 @@ React JS
 
 **Links**
 
-*Tutorials*  
+## Tutorials  
 
 A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES  
 https://facebook.github.io/react/  
 https://facebook.github.io/react/docs/hello-world.html  
 https://facebook.github.io/react/tutorial/tutorial.html  
 
-*Example codes*
+## Example codes
 
 Hello, world!  
-http://codepen.io/gaearon/pen/rrpgNB  
+- http://codepen.io/gaearon/pen/rrpgNB  
 
-**Videos**
+## JSX
 
-*YouTube*  
+https://babeljs.io/
+
+## YouTube Videos
+ 
 React JS Crash Course/(Traversy Media)  
-https://www.youtube.com/watch?v=A71aqufiNtQ  
+- https://www.youtube.com/watch?v=A71aqufiNtQ  
+
+
+
 
 
