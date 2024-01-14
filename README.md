@@ -26,7 +26,8 @@ https://babeljs.io/
 React JS Crash Course/(Traversy Media)  
 - https://www.youtube.com/watch?v=A71aqufiNtQ  
 
-
+React Tutorial for Beginners  
+- https://www.youtube.com/watch?v=SqcY0GlETPk&t=849s  
 
 
 
